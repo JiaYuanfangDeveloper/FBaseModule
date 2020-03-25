@@ -1,0 +1,6 @@
+framework module FBaseModule {
+  umbrella header "FBaseModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

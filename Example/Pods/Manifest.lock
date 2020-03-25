@@ -1,0 +1,16 @@
+PODS:
+  - FBaseModule (0.1.0)
+
+DEPENDENCIES:
+  - FBaseModule (from `../`)
+
+EXTERNAL SOURCES:
+  FBaseModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBaseModule: 27003f11f4875b295c79b6f5141060b7abe7633e
+
+PODFILE CHECKSUM: 9dafaa0c75b3d90bcbfb5b2daf2b4bf91682376f
+
+COCOAPODS: 1.9.1

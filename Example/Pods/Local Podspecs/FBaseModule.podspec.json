@@ -1,0 +1,22 @@
+{
+  "name": "FBaseModule",
+  "version": "0.1.0",
+  "summary": "A short description of FBaseModule.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jiayuanfang/FBaseModule",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jiayuanfang": "214681658@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jiayuanfang/FBaseModule.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FBaseModule/Classes/**/*"
+}

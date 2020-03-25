@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FBaseModule_Example' do
+  pod 'FBaseModule', :path => '../'
+
+  target 'FBaseModule_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
