@@ -18,5 +18,37 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "FBaseModule/Classes/**/*"
+  "source_files": "FBaseModule/Classes/**/*",
+  "dependencies": {
+    "SwifterSwift": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "RxCocoa": [
+
+    ],
+    "Kingfisher": [
+
+    ],
+    "Moya/RxSwift": [
+
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ],
+    "Gallery": [
+
+    ],
+    "SKPhotoBrowser": [
+
+    ],
+    "SnapKit": [
+
+    ],
+    "Toast-Swift": [
+
+    ]
+  }
 }

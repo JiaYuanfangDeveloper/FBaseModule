@@ -31,7 +31,25 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'FBaseModule/Classes/**/*'
-  
+  #扩展库
+  s.dependency 'SwifterSwift'
+  #函数式
+  s.dependency 'RxSwift'
+  s.dependency 'RxCocoa'
+  #网络图片加载
+  s.dependency 'Kingfisher'
+  #网络管理
+  s.dependency 'Moya/RxSwift'
+  #键盘管理
+  s.dependency 'IQKeyboardManagerSwift'
+  #系统相册图片选取
+  s.dependency 'Gallery'
+  #图片浏览器
+  s.dependency 'SKPhotoBrowser'
+  #布局约束框架
+  s.dependency 'SnapKit'
+  #Toast
+  s.dependency 'Toast-Swift'
   # s.resource_bundles = {
   #   'FBaseModule' => ['FBaseModule/Assets/*.png']
   # }
